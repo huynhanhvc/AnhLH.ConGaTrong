@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnhLH.ConGaTrong.Client", "AnhLH.ConGaTrong.Client\AnhLH.ConGaTrong.Client.csproj", "{806C9DB0-9FE8-4AF4-8819-96F32E4FBD9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{806C9DB0-9FE8-4AF4-8819-96F32E4FBD9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{806C9DB0-9FE8-4AF4-8819-96F32E4FBD9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{806C9DB0-9FE8-4AF4-8819-96F32E4FBD9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{806C9DB0-9FE8-4AF4-8819-96F32E4FBD9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {289EDFD4-4FDC-4122-A1F8-EFAD889D96CD}
+	EndGlobalSection
+EndGlobal
