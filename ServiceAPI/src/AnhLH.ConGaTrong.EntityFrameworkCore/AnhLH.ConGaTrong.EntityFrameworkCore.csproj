@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>AnhLH.ConGaTrong</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.EntityFrameworkCore" Version="6.0.0" />
+    <ProjectReference Include="..\AnhLH.ConGaTrong.Domain\AnhLH.ConGaTrong.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

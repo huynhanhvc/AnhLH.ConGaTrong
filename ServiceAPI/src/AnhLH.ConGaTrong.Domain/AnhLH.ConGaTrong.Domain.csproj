@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>AnhLH.ConGaTrong</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.Ddd.Domain" Version="6.0.0" />
+    <ProjectReference Include="..\AnhLH.ConGaTrong.Domain.Shared\AnhLH.ConGaTrong.Domain.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
